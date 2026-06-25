@@ -1,0 +1,1 @@
+import{q as c,U as e}from"./index-BaLiwyRo.js";function o(){const{role:s}=c(),n=s===e.Admin,a=s===e.Ops,i=s===e.Finance;return{canCreate:n||a,canEdit:n||a,canArchive:n,canApprovePay:n||i,canManageSettings:n}}export{o as u};
