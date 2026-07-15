@@ -1,1 +1,0 @@
-function e(r){if(!r)return"—";const c=r.slice(0,10),t=c.match(/^(\d{4})-(\d{2})-(\d{2})$/);if(t)return`${t[3]}/${t[2]}/${t[1]}`;const n=c.match(/^(\d{4})-(\d{2})$/);return n?`${n[2]}/${n[1]}`:r}export{e as f};
