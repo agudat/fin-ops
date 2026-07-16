@@ -1,1 +1,0 @@
-import{b as s,U as a}from"./index-C5E6_-4V.js";function c(){const{role:r}=s(),e=r===a.Admin,n=r===a.Secretary;return{canCreate:e||n,canEdit:e||n,canArchive:e||n,canApprovePay:e||n,canManageSettings:e}}export{c as u};
