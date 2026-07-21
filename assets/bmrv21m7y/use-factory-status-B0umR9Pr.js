@@ -1,0 +1,1 @@
+import{u as t,a as r}from"./index-BLmoZXWH.js";function o(){const s=t();return r("factory-status",()=>s.factoryStatus.list())}function a(){const s=t();return r("supervisor-status",()=>s.supervisors.listStatus())}export{a,o as u};
