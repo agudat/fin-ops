@@ -1,0 +1,1 @@
+import{j as s}from"./index-DQulxBHb.js";function m({label:e,error:r,required:l,children:a}){return s.jsxs("div",{className:"form-field",children:[s.jsxs("label",{className:"form-label",children:[e,l&&s.jsx("span",{style:{color:"#dc2626",marginRight:2},children:"*"})]}),a,r&&s.jsx("span",{className:"form-error",children:r})]})}export{m as F};
