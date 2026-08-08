@@ -1,1 +1,0 @@
-import{b as t,U as r}from"./index-CXlgwLSm.js";function c(){const{role:a}=t(),e=a===r.Admin,n=a===r.Secretary;return{canCreate:e||n,canEdit:e||n,canArchive:e||n,canApprovePay:e||n,canManageSettings:e,canDelete:e}}export{c as u};
